@@ -1,6 +1,6 @@
 # Note-Taker
 ### live depolyment of application 
-Heroku: 
+Heroku: https://pacific-river-62896.herokuapp.com/
 
 ## Demo 
 ![vid.gif](/demo/vid.gif)
